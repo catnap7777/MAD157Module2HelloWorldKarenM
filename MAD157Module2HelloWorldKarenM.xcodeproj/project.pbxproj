@@ -7,16 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3A45AF5E2502E758002DCF0E /* confetti.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A45AF5D2502E758002DCF0E /* confetti.png */; };
 		3AC4B3C524F9FA3A00921823 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC4B3C424F9FA3A00921823 /* AppDelegate.swift */; };
 		3AC4B3C724F9FA3A00921823 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC4B3C624F9FA3A00921823 /* SceneDelegate.swift */; };
 		3AC4B3C924F9FA3A00921823 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC4B3C824F9FA3A00921823 /* ViewController.swift */; };
 		3AC4B3CC24F9FA3A00921823 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3AC4B3CA24F9FA3A00921823 /* Main.storyboard */; };
 		3AC4B3CE24F9FA3C00921823 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3AC4B3CD24F9FA3C00921823 /* Assets.xcassets */; };
 		3AC4B3D124F9FA3C00921823 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3AC4B3CF24F9FA3C00921823 /* LaunchScreen.storyboard */; };
-		3AC4B3D924F9FA4B00921823 /* confetti.png in Resources */ = {isa = PBXBuildFile; fileRef = 3AC4B3D824F9FA4B00921823 /* confetti.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3A45AF5D2502E758002DCF0E /* confetti.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = confetti.png; sourceTree = SOURCE_ROOT; };
 		3AC4B3C124F9FA3A00921823 /* MAD157Module2HelloWorldKarenM.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MAD157Module2HelloWorldKarenM.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3AC4B3C424F9FA3A00921823 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3AC4B3C624F9FA3A00921823 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -25,7 +26,6 @@
 		3AC4B3CD24F9FA3C00921823 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3AC4B3D024F9FA3C00921823 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3AC4B3D224F9FA3C00921823 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3AC4B3D824F9FA4B00921823 /* confetti.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = confetti.png; path = ../../confetti.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,7 +63,7 @@
 				3AC4B3C824F9FA3A00921823 /* ViewController.swift */,
 				3AC4B3CA24F9FA3A00921823 /* Main.storyboard */,
 				3AC4B3CD24F9FA3C00921823 /* Assets.xcassets */,
-				3AC4B3D824F9FA4B00921823 /* confetti.png */,
+				3A45AF5D2502E758002DCF0E /* confetti.png */,
 				3AC4B3CF24F9FA3C00921823 /* LaunchScreen.storyboard */,
 				3AC4B3D224F9FA3C00921823 /* Info.plist */,
 			);
@@ -131,7 +131,7 @@
 				3AC4B3D124F9FA3C00921823 /* LaunchScreen.storyboard in Resources */,
 				3AC4B3CE24F9FA3C00921823 /* Assets.xcassets in Resources */,
 				3AC4B3CC24F9FA3A00921823 /* Main.storyboard in Resources */,
-				3AC4B3D924F9FA4B00921823 /* confetti.png in Resources */,
+				3A45AF5E2502E758002DCF0E /* confetti.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
